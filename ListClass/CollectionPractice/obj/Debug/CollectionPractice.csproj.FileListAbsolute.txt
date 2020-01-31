@@ -1,0 +1,6 @@
+C:\Users\Gautam_Gottipati\source\repos\ListClass\CollectionPractice\bin\Debug\CollectionPractice.exe.config
+C:\Users\Gautam_Gottipati\source\repos\ListClass\CollectionPractice\bin\Debug\CollectionPractice.exe
+C:\Users\Gautam_Gottipati\source\repos\ListClass\CollectionPractice\bin\Debug\CollectionPractice.pdb
+C:\Users\Gautam_Gottipati\source\repos\ListClass\CollectionPractice\obj\Debug\CollectionPractice.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\ListClass\CollectionPractice\obj\Debug\CollectionPractice.exe
+C:\Users\Gautam_Gottipati\source\repos\ListClass\CollectionPractice\obj\Debug\CollectionPractice.pdb

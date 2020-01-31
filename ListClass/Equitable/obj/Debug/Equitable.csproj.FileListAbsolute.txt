@@ -1,0 +1,6 @@
+C:\Users\Gautam_Gottipati\source\repos\ListClass\Equitable\bin\Debug\Equitable.exe.config
+C:\Users\Gautam_Gottipati\source\repos\ListClass\Equitable\bin\Debug\Equitable.exe
+C:\Users\Gautam_Gottipati\source\repos\ListClass\Equitable\bin\Debug\Equitable.pdb
+C:\Users\Gautam_Gottipati\source\repos\ListClass\Equitable\obj\Debug\Equitable.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\ListClass\Equitable\obj\Debug\Equitable.exe
+C:\Users\Gautam_Gottipati\source\repos\ListClass\Equitable\obj\Debug\Equitable.pdb

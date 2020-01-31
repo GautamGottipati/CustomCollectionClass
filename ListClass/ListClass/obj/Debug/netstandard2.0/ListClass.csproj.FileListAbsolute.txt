@@ -1,0 +1,8 @@
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\obj\Debug\netstandard2.0\ListClass.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\obj\Debug\netstandard2.0\ListClass.AssemblyInfoInputs.cache
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\obj\Debug\netstandard2.0\ListClass.AssemblyInfo.cs
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\bin\Debug\netstandard2.0\ListClass.deps.json
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\bin\Debug\netstandard2.0\ListClass.dll
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\bin\Debug\netstandard2.0\ListClass.pdb
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\obj\Debug\netstandard2.0\ListClass.dll
+C:\Users\Gautam_Gottipati\source\repos\ListClass\ListClass\obj\Debug\netstandard2.0\ListClass.pdb
